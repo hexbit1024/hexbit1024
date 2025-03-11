@@ -1,4 +1,4 @@
-
+![HexBit1024 Logo](https://github.com/hexbit1024/hexbit1024/raw/main/h.svg)
  
 <h1 align="center">Привет, я Довлетбег! 🚀</h1>
 
