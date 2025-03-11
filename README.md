@@ -1,8 +1,8 @@
 <h1 align="center">Привет, я Довлетбег! 🚀</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD2&center=true&vCenter=true&width=500&lines=Разработчик+и+3D-художник;Создаю+VFX+и+CGI;Изучаю+AI+%26+бэкенд;Люблю+решать+сложные+задачи" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36FF00&background=000000&center=true&vCenter=true&width=500&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" />
+</a>
 
 ---
 
